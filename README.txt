@@ -1,6 +1,6 @@
 # JavaSort
 Java implementation of this 5 sorts algorithms:
-  \nMerge Sort
+  Merge Sort
   Heap Sort
   Insertion Sort
   Bubble Sort
